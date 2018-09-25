@@ -8,7 +8,8 @@ namespace Euler8.Tests
         [Fact]
         public void Test1()
         {
-
+            var c = new Class1();
+            c.Method1();
         }
     }
 }
