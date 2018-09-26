@@ -4,7 +4,7 @@ using FluentAssertions;
 
 namespace Euler8.Tests
 {
-    public class UnitTest1
+    public class Question8Test
     {
         [Fact]
         public void ConvertNumStringsToIntArray() {
